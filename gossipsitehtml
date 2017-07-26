@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>*Insert Title Here*</title>
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <center><img class= "logo" src="InsertImageHere" width="200px" height="200px"></center>
+
+    <body background="InsertBackgroundHere">
+    <h1 style="color: white; font-size: 80px; font-family: Arial; text-align: center"><strong>InsertTitleHere</strong></h1>
+    <center><div class="links">
+        <a href="https://github.com/Tegalsaurus">
+        <img src="http://jryancanty.com/img/github.png" alt="GitHub" width="70px" height="70px"></a>
+        <a href="https://www.youtube.com/channel/UCX2WSwgJJ2kiWP-MzDPEeGg">
+        <img src="http://www.is-gw.ca/sites/default/files/media_0.gif" alt="YouTube" width="70px" height="70px"></a>
+        </div></center>
+ 
+     </body>
+</html>
